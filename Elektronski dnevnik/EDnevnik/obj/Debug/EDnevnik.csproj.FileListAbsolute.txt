@@ -1,0 +1,10 @@
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\bin\Debug\EDnevnik.exe.config
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\bin\Debug\EDnevnik.exe
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\bin\Debug\EDnevnik.pdb
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\obj\Debug\EDnevnik.csprojAssemblyReference.cache
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\obj\Debug\EDnevnik.Osoba.resources
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\obj\Debug\EDnevnik.Properties.Resources.resources
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.GenerateResource.cache
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\obj\Debug\EDnevnik.exe
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Elektronski dnevnik\EDnevnik\obj\Debug\EDnevnik.pdb
